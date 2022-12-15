@@ -9,5 +9,5 @@ import { checkStock, shops } from './shop.js';
     const result = await checkStock(browser, shop);
     console.log({result});
   }
-  console.log("star scraping");
+  console.log("star scraping 1");
 })()
